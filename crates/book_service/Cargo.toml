@@ -1,0 +1,12 @@
+[package]
+name = "book_service"
+version = "0.1.0"
+edition = "2024"
+default-run="app"
+
+[[bin]]
+name = "app"
+path= "src/bin/app.rs"
+
+[dependencies]
+

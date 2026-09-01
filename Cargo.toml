@@ -1,0 +1,6 @@
+[workspace]
+members = ["crates/book_service"]
+
+resolver = '3'
+
+[workspace.dependencies]
